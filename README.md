@@ -34,6 +34,6 @@
   >| O | V | **V** | **V** | **V** | V | O | V | **V** | V | 0 |
   >>Legenda: Ocupado O, Vago V.
   
-  Com certeza, impensavelmente você iria utilizar o Mictório da posição nº 3, apesar de que na posição nº 2, 4 e 8 tambem seriam seguros.
+  Com certeza, impensavelmente você iria utilizar o Mictório da **posição nº 3**, apesar de que na **posição nº 2, 4 e 8** tambem seriam seguros.
   
   A ideia é criar uma código onde ele escolha de uma forma dinâmica, independente do número de mictórios, a melhor mictório para você urinar tranquilamente.
