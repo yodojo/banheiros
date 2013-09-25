@@ -1,6 +1,6 @@
 ### Retrospectiva Coding Dojo
-#### local: Use coworking
-
+#### Local: [USE Coworking](http://www.usecoworking.com.br)
+#### Data: 13/07/2013
 
 #### Prós 
 - Finalmente aconteceu! o/
@@ -12,12 +12,10 @@
 
 #### Contras
 - Galera perdida no inicio, faltando alguem que conhecia do coding dojo pra ajudar a galera.
-- Nem todo mundo focou no problemo propostpo.
-- Faltou ambiente para resolver problemas.
-- Faltou planejamento.
-- Faltou regras.
-- Deveria ser 10 minutos do que 5 minutos nos pair programing.
-- faltou explicar pra galera como funciona um coding dojo.
-- Definir o ambiente a ser trabalhado, linguagem e maquina configurada.
-
+- Nem todo mundo focou no problemo proposto.
+- Faltou:
+  - Alguem que entendesse totalmente o Dojo e que passasse as Regras e o funcionamento do Dojo aos novos integrantes.
+  - Planejamento (Linguagem a ser trabalhar, Ambiente montado para esse tipo de Linguagem).
+  - Mais tempo no pair programming, os novos integrantes acham muito curto o tempo.
+  
 
