@@ -1,4 +1,6 @@
-### Retrospectiva Coding Dojo
+[![Build Status](https://travis-ci.org/gpedro/banheiros.png?branch=master)](https://travis-ci.org/gpedro/banheiros)
+
+### Retrospectiva Coding Dojo 
 #### Local: [USE Coworking](http://www.usecoworking.com.br)
 #### Data: 13/07/2013
 
