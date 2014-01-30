@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/yodojo/banheiros.png)](https://travis-ci.org/yodojo/banheiros)
+[![Build Status](https://travis-ci.org/yodojo/banheiros.png?branch=master)](https://travis-ci.org/yodojo/banheiros)
 
 ### Retrospectiva Coding Dojo
 #### Local: [USE Coworking](http://www.usecoworking.com.br)
